@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2017 The dotOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28.0dp"
+    android:height="28.0dp"
+    android:viewportWidth="800"
+    android:viewportHeight="800">
+
+    <path
+        android:fillColor="@color/icon_color_dark"
+        android:pathData="M400,13C186.27,13,13,186.27,13,400S186.27,787,400,787,787,613.73,787,400,613.73,13,400,13Zm0,117.91a62.94,62.94,0,1,1-62.94,62.93A63,63,0,0,1,400,130.91ZM130.91,400a62.94,62.94,0,1,1,62.93,62.94A63,63,0,0,1,130.91,400ZM400,669.09a62.94,62.94,0,1,1,62.94-62.93A63,63,0,0,1,400,669.09ZM620,620a16.5,16.5,0,0,1-23.33,0L400,423.33,203.33,620A16.5,16.5,0,0,1,180,620h0a16.5,16.5,0,0,1,0-23.33L376.67,400,180,203.33A16.5,16.5,0,0,1,180,180h0a16.5,16.5,0,0,1,23.33,0L400,376.67,596.67,180A16.5,16.5,0,1,1,620,203.33L423.33,400,620,596.67A16.5,16.5,0,0,1,620,620ZM606.16,462.94A62.94,62.94,0,1,1,669.09,400,63,63,0,0,1,606.16,462.94Z" />
+</vector>
